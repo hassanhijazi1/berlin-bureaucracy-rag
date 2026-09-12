@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "category": "address_registration",
+      "question": "Do I need to register my address after moving to Berlin?"
+    },
+    {
+      "id": "q02",
+      "category": "address_registration",
+      "question": "How long do I have to complete my Anmeldung after moving in?"
+    },
+    {
+      "id": "q03",
+      "category": "address_registration",
+      "question": "Where can I register my address in Berlin?"
+    },
+    {
+      "id": "q04",
+      "category": "address_registration",
+      "question": "How do I book an appointment for Anmeldung?"
+    },
+    {
+      "id": "q05",
+      "category": "address_registration",
+      "question": "What documents do I need for my Anmeldung?"
+    },
+    {
+      "id": "q06",
+      "category": "address_registration",
+      "question": "What is a Wohnungsgeberbestätigung?"
+    },
+    {
+      "id": "q07",
+      "category": "address_registration",
+      "question": "Who has to provide the Wohnungsgeberbestätigung?"
+    },
+    {
+      "id": "q08",
+      "category": "address_registration",
+      "question": "Can I register my address if I am subletting a room?"
+    },
+    {
+      "id": "q09",
+      "category": "address_registration",
+      "question": "Can I register at my student dorm?"
+    },
+    {
+      "id": "q10",
+      "category": "address_registration",
+      "question": "Can I register if I am living temporarily with a friend?"
+    },
+    {
+      "id": "q11",
+      "category": "address_registration",
+      "question": "Can I register without a rental contract?"
+    },
+    {
+      "id": "q12",
+      "category": "address_registration",
+      "question": "What happens if my landlord refuses to give me a Wohnungsgeberbestätigung?"
+    },
+    {
+      "id": "q13",
+      "category": "address_registration",
+      "question": "Can I complete my Anmeldung online?"
+    },
+    {
+      "id": "q14",
+      "category": "address_registration",
+      "question": "Do I have to go to the Bürgeramt in person?"
+    },
+    {
+      "id": "q15",
+      "category": "address_registration",
+      "question": "Can I register my address before I actually move into the apartment?"
+    },
+    {
+      "id": "q16",
+      "category": "address_registration",
+      "question": "What happens if I miss the deadline for Anmeldung?"
+    },
+    {
+      "id": "q17",
+      "category": "address_registration",
+      "question": "Is there a fine for registering my address late?"
+    },
+    {
+      "id": "q18",
+      "category": "address_registration",
+      "question": "What address should I register if I have two apartments?"
+    },
+    {
+      "id": "q19",
+      "category": "address_registration",
+      "question": "Do I need to deregister my old address when I move within Berlin?"
+    },
+    {
+      "id": "q20",
+      "category": "address_registration",
+      "question": "What do I need to do if I move to another German city?"
+    },
+    {
+      "id": "q21",
+      "category": "address_registration",
+      "question": "How do I change my registered address after moving?"
+    },
+    {
+      "id": "q22",
+      "category": "address_registration",
+      "question": "How can I get a registration certificate (Meldebescheinigung)?"
+    },
+    {
+      "id": "q23",
+      "category": "address_registration",
+      "question": "Why do I need a Meldebescheinigung as a student?"
+    },
+    {
+      "id": "q24",
+      "category": "address_registration",
+      "question": "What should I do if my name is not on the mailbox or doorbell?"
+    },
+    {
+      "id": "q25",
+      "category": "address_registration",
+      "question": "Can I register my address if I do not yet have a residence permit?"
+    },
+    {
+      "id": "q26",
+      "category": "student_residence_permit",
+      "question": "Do I need a residence permit to study in Berlin?"
+    },
+    {
+      "id": "q27",
+      "category": "student_residence_permit",
+      "question": "What type of residence permit do I need as an international student?"
+    },
+    {
+      "id": "q28",
+      "category": "student_residence_permit",
+      "question": "How do I apply for a student residence permit?"
+    },
+    {
+      "id": "q29",
+      "category": "student_residence_permit",
+      "question": "Where do I apply for my student residence permit in Berlin?"
+    },
+    {
+      "id": "q30",
+      "category": "student_residence_permit",
+      "question": "What documents are required for a student residence permit?"
+    },
+    {
+      "id": "q31",
+      "category": "student_residence_permit",
+      "question": "How much money do I need to prove that I can support myself?"
+    },
+    {
+      "id": "q32",
+      "category": "student_residence_permit",
+      "question": "What is a blocked account and do I need one?"
+    },
+    {
+      "id": "q33",
+      "category": "student_residence_permit",
+      "question": "Can I use a scholarship as proof of financial support?"
+    },
+    {
+      "id": "q34",
+      "category": "student_residence_permit",
+      "question": "Can my parents financially support me instead of using a blocked account?"
+    },
+    {
+      "id": "q35",
+      "category": "student_residence_permit",
+      "question": "How long is a student residence permit valid?"
+    },
+    {
+      "id": "q36",
+      "category": "student_residence_permit",
+      "question": "How much does a student residence permit cost?"
+    },
+    {
+      "id": "q37",
+      "category": "student_residence_permit",
+      "question": "How long does it take to get a student residence permit?"
+    },
+    {
+      "id": "q38",
+      "category": "student_residence_permit",
+      "question": "What can I do if I cannot get an appointment before my visa expires?"
+    },
+    {
+      "id": "q39",
+      "category": "student_residence_permit",
+      "question": "Can I stay in Germany while my residence permit application is being processed?"
+    },
+    {
+      "id": "q40",
+      "category": "student_residence_permit",
+      "question": "What is a Fiktionsbescheinigung and when would I need one?"
+    },
+    {
+      "id": "q41",
+      "category": "student_residence_permit",
+      "question": "Can I travel outside Germany while my residence permit application is pending?"
+    },
+    {
+      "id": "q42",
+      "category": "student_residence_permit",
+      "question": "What happens if my student residence permit expires while I am abroad?"
+    },
+    {
+      "id": "q43",
+      "category": "student_residence_permit",
+      "question": "Can I change universities while holding a student residence permit?"
+    },
+    {
+      "id": "q44",
+      "category": "student_residence_permit",
+      "question": "Can I change my degree program after receiving my residence permit?"
+    },
+    {
+      "id": "q45",
+      "category": "student_residence_permit",
+      "question": "What happens to my residence permit if I stop studying?"
+    },
+    {
+      "id": "q46",
+      "category": "student_residence_permit",
+      "question": "Can I extend my residence permit if my studies take longer than expected?"
+    },
+    {
+      "id": "q47",
+      "category": "student_residence_permit",
+      "question": "What happens if I fail an important exam during my studies?"
+    },
+    {
+      "id": "q48",
+      "category": "student_residence_permit",
+      "question": "Can I remain in Germany after graduating with a student residence permit?"
+    },
+    {
+      "id": "q49",
+      "category": "student_residence_permit",
+      "question": "Can I switch from a student residence permit to a work residence permit after graduation?"
+    },
+    {
+      "id": "q50",
+      "category": "student_residence_permit",
+      "question": "What residence permit can I apply for after completing my degree?"
+    },
+    {
+      "id": "q51",
+      "category": "student_working_rights",
+      "question": "How many days am I allowed to work as an international student?"
+    },
+    {
+      "id": "q52",
+      "category": "student_working_rights",
+      "question": "Can I work full-time during the semester break?"
+    },
+    {
+      "id": "q53",
+      "category": "student_working_rights",
+      "question": "Can I work more hours during university holidays?"
+    },
+    {
+      "id": "q54",
+      "category": "student_working_rights",
+      "question": "Do I need permission from the Ausländerbehörde before starting a job?"
+    },
+    {
+      "id": "q55",
+      "category": "student_working_rights",
+      "question": "What does the work restriction on my residence permit mean?"
+    },
+    {
+      "id": "q56",
+      "category": "student_working_rights",
+      "question": "Can I have more than one student job?"
+    },
+    {
+      "id": "q57",
+      "category": "student_working_rights",
+      "question": "Can I work as a Werkstudent?"
+    },
+    {
+      "id": "q58",
+      "category": "student_working_rights",
+      "question": "Can I work as a freelancer while studying in Berlin?"
+    },
+    {
+      "id": "q59",
+      "category": "student_working_rights",
+      "question": "Can I start a self-employed business as an international student?"
+    },
+    {
+      "id": "q60",
+      "category": "student_working_rights",
+      "question": "Can I work for a company outside Germany while studying in Berlin?"
+    },
+    {
+      "id": "q61",
+      "category": "student_working_rights",
+      "question": "Does an internship count toward my permitted working days?"
+    },
+    {
+      "id": "q62",
+      "category": "student_working_rights",
+      "question": "Does a mandatory internship affect my student work allowance?"
+    },
+    {
+      "id": "q63",
+      "category": "student_working_rights",
+      "question": "Can I work more than the allowed number of days if my employer needs me to?"
+    },
+    {
+      "id": "q64",
+      "category": "student_working_rights",
+      "question": "What happens if I accidentally work more hours than I am allowed to?"
+    },
+    {
+      "id": "q65",
+      "category": "student_working_rights",
+      "question": "Do I have to tell my university if I start working?"
+    },
+    {
+      "id": "q66",
+      "category": "student_working_rights",
+      "question": "Do I have to pay taxes if I work as a student?"
+    },
+    {
+      "id": "q67",
+      "category": "student_working_rights",
+      "question": "When does a student job become subject to income tax?"
+    },
+    {
+      "id": "q68",
+      "category": "student_working_rights",
+      "question": "Do I have to pay social security contributions as a working student?"
+    },
+    {
+      "id": "q69",
+      "category": "student_working_rights",
+      "question": "Does having a student job affect my health insurance?"
+    },
+    {
+      "id": "q70",
+      "category": "student_working_rights",
+      "question": "Can working too many hours affect my student residence permit?"
+    },
+    {
+      "id": "q71",
+      "category": "student_working_rights",
+      "question": "Can I work during the first semester of my studies?"
+    },
+    {
+      "id": "q72",
+      "category": "student_working_rights",
+      "question": "Can I work during a semester when I take a leave of absence?"
+    },
+    {
+      "id": "q73",
+      "category": "student_working_rights",
+      "question": "Can I work after finishing my exams but before receiving my degree certificate?"
+    },
+    {
+      "id": "q74",
+      "category": "student_working_rights",
+      "question": "Can I work during an unpaid internship?"
+    },
+    {
+      "id": "q75",
+      "category": "student_working_rights",
+      "question": "Do I need a German tax ID before starting a student job?"
+    },
+    {
+      "id": "q76",
+      "category": "health_insurance",
+      "question": "Do international students in Berlin need health insurance?"
+    },
+    {
+      "id": "q77",
+      "category": "health_insurance",
+      "question": "Can I study in Germany without German health insurance?"
+    },
+    {
+      "id": "q78",
+      "category": "health_insurance",
+      "question": "Which health insurance options are available to international students?"
+    },
+    {
+      "id": "q79",
+      "category": "health_insurance",
+      "question": "How much does student health insurance usually cost?"
+    },
+    {
+      "id": "q80",
+      "category": "health_insurance",
+      "question": "What is the difference between statutory and private health insurance?"
+    },
+    {
+      "id": "q81",
+      "category": "health_insurance",
+      "question": "Can I use health insurance from my home country?"
+    },
+    {
+      "id": "q82",
+      "category": "health_insurance",
+      "question": "Is an EHIC enough for studying in Berlin?"
+    },
+    {
+      "id": "q83",
+      "category": "health_insurance",
+      "question": "Can I get student health insurance after arriving in Germany?"
+    },
+    {
+      "id": "q84",
+      "category": "health_insurance",
+      "question": "How do I apply for statutory student health insurance?"
+    },
+    {
+      "id": "q85",
+      "category": "health_insurance",
+      "question": "What documents do I need to enroll in health insurance?"
+    },
+    {
+      "id": "q86",
+      "category": "health_insurance",
+      "question": "How does my university verify my health insurance?"
+    },
+    {
+      "id": "q87",
+      "category": "health_insurance",
+      "question": "Can I change my health insurance provider as a student?"
+    },
+    {
+      "id": "q88",
+      "category": "health_insurance",
+      "question": "Can I switch from private to statutory health insurance?"
+    },
+    {
+      "id": "q89",
+      "category": "health_insurance",
+      "question": "What happens to my health insurance if I turn 30 while studying?"
+    },
+    {
+      "id": "q90",
+      "category": "health_insurance",
+      "question": "How does health insurance work if I am over 30 when I start university?"
+    },
+    {
+      "id": "q91",
+      "category": "health_insurance",
+      "question": "Can I stay on my parents' health insurance while studying in Germany?"
+    },
+    {
+      "id": "q92",
+      "category": "health_insurance",
+      "question": "What happens to my health insurance if I stop working?"
+    },
+    {
+      "id": "q93",
+      "category": "health_insurance",
+      "question": "Does my student job change how much health insurance I pay?"
+    },
+    {
+      "id": "q94",
+      "category": "health_insurance",
+      "question": "What happens to my health insurance if I graduate?"
+    },
+    {
+      "id": "q95",
+      "category": "health_insurance",
+      "question": "What should I do if I cannot afford my health insurance contributions?"
+    },
+    {
+      "id": "q96",
+      "category": "health_insurance",
+      "question": "Does health insurance cover visits to a general practitioner?"
+    },
+    {
+      "id": "q97",
+      "category": "health_insurance",
+      "question": "How do I see a doctor with German health insurance?"
+    },
+    {
+      "id": "q98",
+      "category": "health_insurance",
+      "question": "Do I need a health insurance card to visit a doctor?"
+    },
+    {
+      "id": "q99",
+      "category": "health_insurance",
+      "question": "Does student health insurance cover dental treatment?"
+    },
+    {
+      "id": "q100",
+      "category": "health_insurance",
+      "question": "What should I do if my health insurance application is rejected?"
+    }
+  ]
+}

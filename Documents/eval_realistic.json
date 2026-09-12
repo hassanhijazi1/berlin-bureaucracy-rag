@@ -1,0 +1,302 @@
+[
+ {
+  "id": "r01",
+  "question": "How long do I have to register my address in Berlin?",
+  "lang": "en"
+ },
+ {
+  "id": "r02",
+  "question": "What happens if I register late?",
+  "lang": "en"
+ },
+ {
+  "id": "r03",
+  "question": "I've been in Berlin 4 months and still haven't registered. Am I in trouble?",
+  "lang": "en"
+ },
+ {
+  "id": "r04",
+  "question": "Do I need to register if I'm only staying for a semester?",
+  "lang": "en"
+ },
+ {
+  "id": "r05",
+  "question": "my landlord wont give me the wohnungsgeberbestatigung what do i do",
+  "lang": "en"
+ },
+ {
+  "id": "r06",
+  "question": "Is my landlord legally required to give me the confirmation form?",
+  "lang": "en"
+ },
+ {
+  "id": "r07",
+  "question": "What has to be written on the Wohnungsgeberbestätigung?",
+  "lang": "en"
+ },
+ {
+  "id": "r08",
+  "question": "Can I use my rental contract instead of the landlord confirmation?",
+  "lang": "en"
+ },
+ {
+  "id": "r09",
+  "question": "I'm subletting from the main tenant. Can they sign the Wohnungsgeberbestätigung?",
+  "lang": "en"
+ },
+ {
+  "id": "r10",
+  "question": "Can I do the Anmeldung online?",
+  "lang": "en"
+ },
+ {
+  "id": "r11",
+  "question": "I'm not an EU citizen. Can I still register online?",
+  "lang": "en"
+ },
+ {
+  "id": "r12",
+  "question": "What documents do I bring to the Bürgeramt?",
+  "lang": "en"
+ },
+ {
+  "id": "r13",
+  "question": "Does the Anmeldung cost money?",
+  "lang": "en"
+ },
+ {
+  "id": "r14",
+  "question": "How long does the appointment take?",
+  "lang": "en"
+ },
+ {
+  "id": "r15",
+  "question": "Can my girlfriend do the Anmeldung for me if I'm away?",
+  "lang": "en"
+ },
+ {
+  "id": "r16",
+  "question": "I'm moving flats within Berlin. Do I need to do it again?",
+  "lang": "en"
+ },
+ {
+  "id": "r17",
+  "question": "What is the difference between Anmeldung and Ummeldung?",
+  "lang": "en"
+ },
+ {
+  "id": "r18",
+  "question": "I'm leaving Germany. Do I have to deregister?",
+  "lang": "en"
+ },
+ {
+  "id": "r19",
+  "question": "When can I do the Abmeldung before I leave?",
+  "lang": "en"
+ },
+ {
+  "id": "r20",
+  "question": "I lost my Meldebescheinigung. Can I get another copy?",
+  "lang": "en"
+ },
+ {
+  "id": "r21",
+  "question": "What's the difference between the paper I got at the Bürgeramt and a Meldebescheinigung?",
+  "lang": "en"
+ },
+ {
+  "id": "r22",
+  "question": "I have a flat in Munich and one in Berlin. Which is my main address?",
+  "lang": "en"
+ },
+ {
+  "id": "r23",
+  "question": "Do I have to pay Zweitwohnungssteuer for a second flat?",
+  "lang": "en"
+ },
+ {
+  "id": "r24",
+  "question": "Can I register a second address in Berlin online?",
+  "lang": "en"
+ },
+ {
+  "id": "r25",
+  "question": "I'm staying in a hostel until I find a flat. Can I register there?",
+  "lang": "en"
+ },
+ {
+  "id": "r26",
+  "question": "My friend says I can register at his place even though I don't live there. Is that ok?",
+  "lang": "en"
+ },
+ {
+  "id": "r27",
+  "question": "I'm living in a WG. Do my flatmates need to come to the appointment?",
+  "lang": "en"
+ },
+ {
+  "id": "r28",
+  "question": "Can I register my baby at the same time as myself?",
+  "lang": "en"
+ },
+ {
+  "id": "r29",
+  "question": "My son is 14. Who registers him?",
+  "lang": "en"
+ },
+ {
+  "id": "r30",
+  "question": "My wife arrives in two months. Can I register her now?",
+  "lang": "en"
+ },
+ {
+  "id": "r31",
+  "question": "How long is my student residence permit valid for?",
+  "lang": "en"
+ },
+ {
+  "id": "r32",
+  "question": "How many hours can I work as a student?",
+  "lang": "en"
+ },
+ {
+  "id": "r33",
+  "question": "Do my hours at the university library count toward my work limit?",
+  "lang": "en"
+ },
+ {
+  "id": "r34",
+  "question": "If I work 3 hours does that count as a whole day?",
+  "lang": "en"
+ },
+ {
+  "id": "r35",
+  "question": "Can I work full time during the semester break?",
+  "lang": "en"
+ },
+ {
+  "id": "r36",
+  "question": "I'm on a language course visa. Can I work?",
+  "lang": "en"
+ },
+ {
+  "id": "r37",
+  "question": "What happens if I work more days than allowed?",
+  "lang": "en"
+ },
+ {
+  "id": "r38",
+  "question": "Can I do an unpaid internship without it counting?",
+  "lang": "en"
+ },
+ {
+  "id": "r39",
+  "question": "Can I stay after graduation to look for work?",
+  "lang": "en"
+ },
+ {
+  "id": "r40",
+  "question": "How long is the job seeking permit?",
+  "lang": "en"
+ },
+ {
+  "id": "r41",
+  "question": "My residence permit expires next month and the LEA has no appointments. What do I do?",
+  "lang": "en"
+ },
+ {
+  "id": "r42",
+  "question": "What is a Fiktionsbescheinigung?",
+  "lang": "en"
+ },
+ {
+  "id": "r43",
+  "question": "Can I travel while I'm waiting for my permit extension?",
+  "lang": "en"
+ },
+ {
+  "id": "r44",
+  "question": "I applied for my extension after my permit expired. Is that a problem?",
+  "lang": "en"
+ },
+ {
+  "id": "r45",
+  "question": "What do I need to prove to get a student residence permit?",
+  "lang": "en"
+ },
+ {
+  "id": "r46",
+  "question": "How much money do I need to show for a student visa?",
+  "lang": "en"
+ },
+ {
+  "id": "r47",
+  "question": "Can I change from a language course visa to a student visa?",
+  "lang": "en"
+ },
+ {
+  "id": "r48",
+  "question": "I failed my exams and lost my place. What happens to my permit?",
+  "lang": "en"
+ },
+ {
+  "id": "r49",
+  "question": "Can I switch universities on the same permit?",
+  "lang": "en"
+ },
+ {
+  "id": "r50",
+  "question": "Do I need health insurance to get my residence permit?",
+  "lang": "en"
+ },
+ {
+  "id": "r51",
+  "question": "Wie lange habe ich Zeit für die Anmeldung?",
+  "lang": "de"
+ },
+ {
+  "id": "r52",
+  "question": "Was passiert wenn ich mich zu spät anmelde?",
+  "lang": "de"
+ },
+ {
+  "id": "r53",
+  "question": "Mein Vermieter will die Wohnungsgeberbestätigung nicht ausstellen. Was kann ich tun?",
+  "lang": "de"
+ },
+ {
+  "id": "r54",
+  "question": "Brauche ich einen Termin beim Bürgeramt?",
+  "lang": "de"
+ },
+ {
+  "id": "r55",
+  "question": "Wie viele Stunden darf ich als Student arbeiten?",
+  "lang": "de"
+ },
+ {
+  "id": "r56",
+  "question": "Frist Anmeldung Wohnung Meldebehörde",
+  "lang": "de-keyword"
+ },
+ {
+  "id": "r57",
+  "question": "Bußgeld verspätete Anmeldung Höhe",
+  "lang": "de-keyword"
+ },
+ {
+  "id": "r58",
+  "question": "i just arrived in berlin what do i need to do first",
+  "lang": "en-casual"
+ },
+ {
+  "id": "r59",
+  "question": "how do i open a bank account without anmeldung",
+  "lang": "en-casual"
+ },
+ {
+  "id": "r60",
+  "question": "when do i get my tax id after registering",
+  "lang": "en-casual"
+ }
+]

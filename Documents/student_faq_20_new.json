@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s01",
+    "question": "The name on my rental contract is a property management company, not the owner. Whose name goes on the Wohnungsgeberbestätigung?",
+    "topic": "anmeldung",
+    "lang": "en"
+  },
+  {
+    "id": "s02",
+    "question": "I moved in two weeks before my contract officially starts. Which date do I put as the move-in date?",
+    "topic": "anmeldung",
+    "lang": "en"
+  },
+  {
+    "id": "s03",
+    "question": "Can I register at an address if I only have a bed in a shared room?",
+    "topic": "anmeldung",
+    "lang": "en"
+  },
+  {
+    "id": "s04",
+    "question": "My Anmeldung has a typo in my name. How do I get it corrected?",
+    "topic": "anmeldung",
+    "lang": "en"
+  },
+  {
+    "id": "s05",
+    "question": "Do I have to tell the Bürgeramt if I move out of Berlin to another German city?",
+    "topic": "anmeldung",
+    "lang": "en"
+  },
+  {
+    "id": "s06",
+    "question": "ich wohne noch nicht in der wohnung aber der vertrag läuft schon, muss ich mich trotzdem anmelden?",
+    "topic": "anmeldung",
+    "lang": "de-casual"
+  },
+  {
+    "id": "s07",
+    "question": "My passport expires before my residence permit does. What happens to my permit?",
+    "topic": "permit",
+    "lang": "en"
+  },
+  {
+    "id": "s08",
+    "question": "Do I need to inform the immigration office when I change my address within Berlin?",
+    "topic": "permit",
+    "lang": "en"
+  },
+  {
+    "id": "s09",
+    "question": "I lost my electronic residence permit card. What do I do and does it cost anything?",
+    "topic": "permit",
+    "lang": "en"
+  },
+  {
+    "id": "s10",
+    "question": "Can my residence permit be revoked if I do not make progress in my studies?",
+    "topic": "permit",
+    "lang": "en"
+  },
+  {
+    "id": "s11",
+    "question": "I got married to a German citizen while on a student permit. Do I need to change my permit?",
+    "topic": "permit",
+    "lang": "en"
+  },
+  {
+    "id": "s12",
+    "question": "Wie lange darf ich Deutschland verlassen, ohne meinen Aufenthaltstitel zu verlieren?",
+    "topic": "permit",
+    "lang": "de"
+  },
+  {
+    "id": "s13",
+    "question": "Does the time I spend on a student permit count towards permanent residence?",
+    "topic": "permit",
+    "lang": "en"
+  },
+  {
+    "id": "s14",
+    "question": "Can I work while I hold a Fiktionsbescheinigung if my old permit allowed 140 days?",
+    "topic": "work",
+    "lang": "en"
+  },
+  {
+    "id": "s15",
+    "question": "Does an internship that is part of my thesis count as employment?",
+    "topic": "work",
+    "lang": "en"
+  },
+  {
+    "id": "s16",
+    "question": "Can I volunteer for an NGO without it counting against my working days?",
+    "topic": "work",
+    "lang": "en"
+  },
+  {
+    "id": "s17",
+    "question": "how do i prove to my employer that i am allowed to work",
+    "topic": "work",
+    "lang": "en-casual"
+  },
+  {
+    "id": "s18",
+    "question": "I already have health insurance from my home country. Is that enough for enrolment?",
+    "topic": "insurance",
+    "lang": "en"
+  },
+  {
+    "id": "s19",
+    "question": "Can I switch from private to statutory health insurance once I am already a student here?",
+    "topic": "insurance",
+    "lang": "en"
+  },
+  {
+    "id": "s20",
+    "question": "What happens to my health insurance when I finish my studies and start looking for a job?",
+    "topic": "insurance",
+    "lang": "en"
+  }
+]
