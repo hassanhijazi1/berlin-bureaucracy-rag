@@ -1,0 +1,26 @@
+§ 18 Meldebescheinigung
+
+(1) Die Meldebehörde erteilt der betroffenen Person auf deren Antrag eine schriftliche oder elektronische
+Meldebescheinigung. Die Meldebescheinigung enthält folgende Daten:
+1.  
+Familienname,
+ 
+2.  
+Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
+ 
+3.  
+Doktorgrad,
+ 
+4.  
+Geburtsdatum,
+ 
+5.  
+derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
+ 
+Hierzu hat die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie die Anschrift der derzeitigen
+Haupt- oder alleinigen Wohnung zu übermitteln.
+(2) Auf Antrag der betroffenen Person kann die Meldebescheinigung zusätzlich zu den Daten nach Absatz 1 Satz
+2 Daten nach § 3 Absatz 1 Nummer 2, 5 bis 16, 17 mit Ausnahme des Sperrkennworts und der Sperrsumme des
+Personalausweises und der eID-Karte sowie die Tatsache, dass ein Sterbedatum nicht gespeichert ist, enthalten.
+(3) Die elektronische Meldebescheinigung wird unentgeltlich erteilt.
+(4) Im Übrigen gelten § 10 Absatz 2 und 3 sowie § 11 Absatz 2 Nummer 1 bis 3 entsprechend.

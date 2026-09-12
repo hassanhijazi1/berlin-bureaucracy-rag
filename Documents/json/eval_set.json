@@ -1,0 +1,394 @@
+[
+  {
+    "id": "q01",
+    "question": "How many days do I have to register my new address in Berlin?",
+    "answer_contains": ["14", "two weeks", "zwei Wochen"],
+    "source_files": ["bmg_de_17.txt", "bmg_en_17.txt", "anmeldung_hauptwohnung.md"],
+    "lang": "en",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q02",
+    "question": "Wie lange habe ich Zeit, mich nach dem Einzug anzumelden?",
+    "answer_contains": ["zwei Wochen", "14"],
+    "source_files": ["bmg_de_17.txt", "anmeldung_hauptwohnung.md", "anmeldung_hauptwohnung_leicht.md"],
+    "lang": "de-casual",
+    "difficulty": "easy",
+    "note": "Same content as q01, casual German."
+  },
+  {
+    "id": "q03",
+    "question": "Frist zur Anmeldung einer Wohnung bei der Meldebehoerde",
+    "answer_contains": ["zwei Wochen"],
+    "source_files": ["bmg_de_17.txt"],
+    "lang": "de-formal",
+    "difficulty": "easy",
+    "note": "q01/q02/q03 are one question in three registers. This triple is the register experiment."
+  },
+  {
+    "id": "q04",
+    "question": "What is the fine if I register too late?",
+    "answer_contains": ["1000", "1.000", "tausend"],
+    "source_files": ["bmg_de_54.txt", "bmg_en_54.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "54(3). Obligation lives in 17, penalty in 54."
+  },
+  {
+    "id": "q05",
+    "question": "Someone offered to sell me an address to register at. Is that legal?",
+    "answer_contains": ["50000", "50.000", "fünfzigtausend", "verboten", "prohibited"],
+    "source_files": ["bmg_de_19.txt", "bmg_en_19.txt", "bmg_de_54.txt", "bmg_en_54.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "Needs 19(6) for the prohibition AND 54(1)+(3) for the 50000 figure. Two sections."
+  },
+  {
+    "id": "q06",
+    "question": "My landlord will not give me the Wohnungsgeberbestaetigung. What should I do?",
+    "answer_contains": ["Meldebeh", "registration authorit", "unverz", "without delay"],
+    "source_files": ["bmg_de_19.txt", "bmg_en_19.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "19(2)."
+  },
+  {
+    "id": "q07",
+    "question": "Can I use my rental contract instead of the landlord confirmation?",
+    "answer_contains": ["nicht", "not", "ersetzt"],
+    "source_files": ["anmeldung_hauptwohnung.md", "anmeldung_nebenwohnung.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "Only the Berlin pages say this. Not in the BMG at all."
+  },
+  {
+    "id": "q08",
+    "question": "How long does my landlord have to give me the move-in confirmation?",
+    "answer_contains": ["zwei Wochen", "two weeks", "14"],
+    "source_files": ["bmg_de_19.txt", "bmg_en_19.txt", "anmeldung_hauptwohnung.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "19(1) refers to the period in 17(1) rather than stating it. Cross-reference resolution."
+  },
+  {
+    "id": "q09",
+    "question": "What must the landlord confirmation contain?",
+    "answer_contains": ["Einzugsdatum", "Anschrift", "date moved in", "address"],
+    "source_files": ["bmg_de_19.txt", "bmg_en_19.txt", "anmeldung_hauptwohnung.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "19(3), four-item list."
+  },
+  {
+    "id": "q10",
+    "question": "Can I register online with an electronic residence permit?",
+    "answer_contains": ["nicht m", "not possible", "eAT"],
+    "source_files": ["anmeldung_hauptwohnung.md"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "Online registration is NOT possible with an eAT. Buried in a bullet list. Critical for non-EU students."
+  },
+  {
+    "id": "q11",
+    "question": "I am a non-EU student. Can I do the Anmeldung from home online?",
+    "answer_contains": ["EU", "nicht", "not", "Bürgeramt"],
+    "source_files": ["anmeldung_hauptwohnung.md", "anmeldung_hauptwohnung_leicht.md"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "Same fact as q10 phrased as a personal situation. Requires connecting 'non-EU' to the citizenship requirement."
+  },
+  {
+    "id": "q12",
+    "question": "Do I need a BundID account to register online?",
+    "answer_contains": ["BundID"],
+    "source_files": ["anmeldung_hauptwohnung.md", "anmeldung_hauptwohnung_leicht.md"],
+    "lang": "en",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q13",
+    "question": "I live abroad and I am in Berlin for 2 months only. Do I have to register?",
+    "answer_contains": ["drei Monate", "three months"],
+    "source_files": ["bmg_de_27.txt", "bmg_en_27.txt", "anmeldung_hauptwohnung.md", "anmeldung_hauptwohnung_leicht.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "27(2) third sentence: three months for people otherwise resident abroad."
+  },
+  {
+    "id": "q14",
+    "question": "I am already registered in Germany and subletting in Berlin for 5 months. Do I need to register again?",
+    "answer_contains": ["sechs Monate", "six months"],
+    "source_files": ["bmg_de_27.txt", "bmg_en_27.txt", "anmeldung_hauptwohnung.md", "anmeldung_hauptwohnung_leicht.md"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "Six months, not three. q13 and q14 sit in the same paragraph with different answers - precision test."
+  },
+  {
+    "id": "q15",
+    "question": "How long can I stay in Berlin without registering at all?",
+    "answer_contains": ["drei Monate", "three months", "sechs Monate", "six months"],
+    "source_files": ["bmg_de_27.txt", "bmg_en_27.txt", "anmeldung_hauptwohnung.md"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "Trap: 17 looks relevant but has no answer. The answer is in 27 and depends on circumstances."
+  },
+  {
+    "id": "q16",
+    "question": "I am living in a hostel while flat-hunting. Do I need to register?",
+    "answer_contains": ["drei Monate", "three months"],
+    "source_files": ["bmg_de_29.txt", "bmg_en_29.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "29(1). Note 29 and 27 both use three months but for different situations."
+  },
+  {
+    "id": "q17",
+    "question": "Do I have to register if I sleep in a caravan on a campsite?",
+    "answer_contains": ["drei Monate", "three months", "Zelten", "tents", "caravan"],
+    "source_files": ["bmg_de_29.txt", "bmg_en_29.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "29(4). Deep in a split section - tests whether later chunks are reachable."
+  },
+  {
+    "id": "q18",
+    "question": "Is a caravan a Wohnung under the registration law?",
+    "answer_contains": ["fortbewegt", "moved", "gelegentlich", "occasionally"],
+    "source_files": ["bmg_de_20.txt", "bmg_en_20.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "20, last sentence. Interacts with q17 - both about caravans, different sections."
+  },
+  {
+    "id": "q19",
+    "question": "What counts as a Wohnung under the registration law?",
+    "answer_contains": ["umschlossene", "enclosed", "Wohnen", "Schlafen", "living", "sleeping"],
+    "source_files": ["bmg_de_20.txt", "bmg_en_20.txt"],
+    "lang": "en",
+    "difficulty": "easy",
+    "note": "20. Shortest section in the corpus, always a single chunk."
+  },
+  {
+    "id": "q20",
+    "question": "I have a flat in Munich and one in Berlin. Which is my main residence?",
+    "answer_contains": ["vorwiegend", "used most", "predominantly"],
+    "source_files": ["bmg_de_21.txt", "bmg_en_21.txt", "bmg_de_22.txt", "bmg_en_22.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "21(2) defines it; 22 gives tie-breaks."
+  },
+  {
+    "id": "q21",
+    "question": "I am married and my family lives in Hamburg while I study in Berlin. Which flat is my Hauptwohnung?",
+    "answer_contains": ["Familie", "family"],
+    "source_files": ["bmg_de_22.txt", "bmg_en_22.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "22(1) overrides the general rule in 21(2). Retrieving 21 alone gives a wrong answer."
+  },
+  {
+    "id": "q22",
+    "question": "Was ist der Unterschied zwischen Hauptwohnung und Nebenwohnung?",
+    "answer_contains": ["vorwiegend"],
+    "source_files": ["bmg_de_21.txt", "anmeldung_nebenwohnung.md", "anmeldung_hauptwohnung.md"],
+    "lang": "de-casual",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q23",
+    "question": "My main residence changed. How long do I have to tell the authority?",
+    "answer_contains": ["zwei Wochen", "two weeks"],
+    "source_files": ["bmg_de_21.txt", "bmg_en_21.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "21(4), not 17(1). Same deadline, different obligation - easy for retrieval to confuse."
+  },
+  {
+    "id": "q24",
+    "question": "Can I register my second flat online in Berlin?",
+    "answer_contains": ["nur vor Ort", "Bürgeramt", "in person"],
+    "source_files": ["anmeldung_nebenwohnung.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "Nebenwohnung registration is in-person only. Contrasts with the Hauptwohnung page."
+  },
+  {
+    "id": "q25",
+    "question": "When do I have to deregister from my flat?",
+    "answer_contains": ["zwei Wochen", "two weeks"],
+    "source_files": ["bmg_de_17.txt", "bmg_en_17.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "17(2) applies only if NOT moving to another residence in Germany. Tests whether the condition survives."
+  },
+  {
+    "id": "q26",
+    "question": "How early can I deregister before I move out?",
+    "answer_contains": ["eine Woche", "one week"],
+    "source_files": ["bmg_de_17.txt", "bmg_en_17.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "17(2) second sentence."
+  },
+  {
+    "id": "q27",
+    "question": "Who registers a child under 16?",
+    "answer_contains": ["16"],
+    "source_files": ["bmg_de_17.txt", "bmg_en_17.txt", "anmeldung_hauptwohnung.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "17(3), middle of the section."
+  },
+  {
+    "id": "q28",
+    "question": "What data is on the Meldebescheinigung?",
+    "answer_contains": ["Familienname", "Geburtsdatum", "family name", "date of birth"],
+    "source_files": ["bmg_de_18.txt", "bmg_en_18.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "18(1), five-item numbered list. Direct test of whether lists survived chunking."
+  },
+  {
+    "id": "q29",
+    "question": "Is the electronic Meldebescheinigung free?",
+    "answer_contains": ["unentgeltlich", "free of charge"],
+    "source_files": ["bmg_de_18.txt", "bmg_en_18.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "18(3), at the very end of the section."
+  },
+  {
+    "id": "q30",
+    "question": "Does the Anmeldung cost anything?",
+    "answer_contains": ["keine", "free", "no fee", "unentgeltlich"],
+    "source_files": ["anmeldung_hauptwohnung.md", "anmeldung_nebenwohnung.md", "bmg_de_24.txt", "bmg_en_24.txt"],
+    "lang": "en",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q31",
+    "question": "Are diplomats required to register in Germany?",
+    "answer_contains": ["befreit", "exempt", "diplomat"],
+    "source_files": ["bmg_de_26.txt", "bmg_en_26.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "26 is Befreiung, 27 is Ausnahmen. Adjacent sections, different concepts - confusion test."
+  },
+  {
+    "id": "q32",
+    "question": "What documents do I bring to the Buergeramt appointment?",
+    "answer_contains": ["Meldeschein", "Pass", "Bestätigung", "passport", "registration form"],
+    "source_files": ["bmg_de_23.txt", "bmg_en_23.txt", "anmeldung_hauptwohnung.md", "anmeldung_hauptwohnung_leicht.md"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "23(1) legally, plus the Berlin page operationally. Both are valid answers."
+  },
+  {
+    "id": "q33",
+    "question": "How many days per year can I work on a student residence permit?",
+    "answer_contains": ["140"],
+    "source_files": ["aufenthg_de_16b.txt", "aufenthg_en_16b.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "16b(3): 140 Arbeitstage (Arbeitstagekonto). NOTE: 280 half-days is a derived figure, not in the text."
+  },
+  {
+    "id": "q34",
+    "question": "If I work 3 hours in a day, does that count as a full working day?",
+    "answer_contains": ["vier Stunden", "four hours", "halber", "half"],
+    "source_files": ["aufenthg_de_16b.txt", "aufenthg_en_16b.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "16b(3) no. 1: up to four hours counts as half a working day. Deep in a split section."
+  },
+  {
+    "id": "q35",
+    "question": "Do student assistant jobs at the university count towards my working days?",
+    "answer_contains": ["Nebentätigkeiten", "student jobs", "nicht angerechnet", "not counted"],
+    "source_files": ["aufenthg_de_16b.txt", "aufenthg_en_16b.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "16b(3): studentische Nebentätigkeiten are not counted. One sentence, easy to miss."
+  },
+  {
+    "id": "q36",
+    "question": "How long is a student residence permit valid?",
+    "answer_contains": ["zwei Jahre", "two years"],
+    "source_files": ["aufenthg_de_16b.txt", "aufenthg_en_16b.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "16b(2): as a rule two years, minimum one year."
+  },
+  {
+    "id": "q37",
+    "question": "I am on a language course visa. How many hours per week can I work?",
+    "answer_contains": ["20 Stunden", "20 hours"],
+    "source_files": ["aufenthg_de_16f.txt", "aufenthg_en_16f.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "16f(3): 20 hours per week for language course permits. Different rule from 16b - trap if 16b is retrieved."
+  },
+  {
+    "id": "q38",
+    "question": "Can I stay in Germany to look for a job after I graduate?",
+    "answer_contains": ["18", "Monate", "months"],
+    "source_files": ["aufenthg_de_20.txt", "aufenthg_en_20.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "20(1) no. 1 and 20(2): up to 18 months, subsistence must be secured."
+  },
+  {
+    "id": "q39",
+    "question": "My residence permit expires next month but my appointment is in three months. What happens?",
+    "answer_contains": ["Fiktionsbescheinigung", "fortbestehend", "provisional residence document", "remain in force"],
+    "source_files": ["aufenthg_de_81.txt", "aufenthg_en_81.txt"],
+    "lang": "en",
+    "difficulty": "hard",
+    "note": "81(4) and 81(5). One of the most-asked real questions in Berlin."
+  },
+  {
+    "id": "q40",
+    "question": "What are the general conditions for getting a residence permit?",
+    "answer_contains": ["Lebensunterhalt", "subsistence", "Passpflicht", "passport"],
+    "source_files": ["aufenthg_de_5.txt", "aufenthg_en_5.txt"],
+    "lang": "en",
+    "difficulty": "medium",
+    "note": "5(1). This is where the blocked-account requirement originates."
+  },
+  {
+    "id": "q41",
+    "question": "How much money do I need in my blocked account?",
+    "answer_contains": [],
+    "source_files": [],
+    "lang": "en",
+    "expect_no_answer": true,
+    "note": "The amount is set by ordinance, not in AufenthG. 5(1) requires secured subsistence but gives no figure. The system must not invent one."
+  },
+  {
+    "id": "q42",
+    "question": "How much does public health insurance cost for students?",
+    "answer_contains": [],
+    "source_files": [],
+    "lang": "en",
+    "expect_no_answer": true,
+    "note": "Not in the corpus at all."
+  },
+  {
+    "id": "q43",
+    "question": "Can I bring my spouse to Germany on a student visa?",
+    "answer_contains": [],
+    "source_files": [],
+    "lang": "en",
+    "expect_no_answer": true,
+    "note": "Family reunification is AufenthG 27-36, deliberately excluded from the corpus."
+  },
+  {
+    "id": "q44",
+    "question": "Which Buergeramt has the shortest waiting time?",
+    "answer_contains": [],
+    "source_files": [],
+    "lang": "en",
+    "expect_no_answer": true,
+    "note": "Not answerable from documents. The branch list was stripped as navigation."
+  }
+]

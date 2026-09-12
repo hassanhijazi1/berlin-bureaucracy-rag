@@ -1,0 +1,68 @@
+§ 29 Besondere Meldepflicht in Beherbergungsstätten
+(1) Wer in Einrichtungen, die der gewerbs- oder geschäftsmäßigen Aufnahme von Personen dienen
+(Beherbergungsstätten), für länger als sechs Monate aufgenommen wird, unterliegt der Meldepflicht nach §
+17 oder § 28. Wer nicht für eine Wohnung im Inland gemeldet ist, hat sich innerhalb von zwei Wochen bei der
+Meldebehörde anzumelden, sobald sein Aufenthalt die Dauer von drei Monaten überschreitet.
+(2) Beherbergte ausländische Personen haben am Tag der Ankunft einen besonderen Meldeschein handschriftlich
+zu unterschreiben, der die in § 30 Absatz 2 aufgeführten Daten enthält. Mitreisende ausländische Ehegatten,
+Lebenspartner und minderjährige Kinder sind auf dem Meldeschein nur der Zahl nach anzugeben. Bei
+Reisegesellschaften von mehr als zehn Personen betrifft die Verpflichtung nach Satz 1 nur den Reiseleiter; er hat
+die Anzahl der ausländischen Mitreisenden und ihre Staatsangehörigkeit anzugeben.
+(3) Beherbergte ausländische Personen, die nach Absatz 2 namentlich auf dem Meldeschein aufzuführen sind,
+haben sich bei der Anmeldung gegenüber den Leitern der Beherbergungsstätten durch die Vorlage eines gültigen
+Identitätsdokumentes (anerkannter und gültiger Pass oder Passersatz) auszuweisen.
+(4) Personen, die in Zelten, Wohnmobilen, Wohnwagen oder Wasserfahrzeugen auf gewerbs- oder geschäftsmäßig
+überlassenen Plätzen übernachten, unterliegen nicht der Meldepflicht nach § 17 Absatz 1 und 2, solange sie im
+Inland nach § 17 oder § 28 gemeldet sind. Wer nicht nach § 17 oder § 28 gemeldet ist, hat sich innerhalb von zwei
+Wochen bei der Meldebehörde anzumelden, sobald der Aufenthalt die Dauer von drei Monaten überschreitet. Die
+Absätze 2 und 3 gelten für ausländische Personen entsprechend.
+(5) Abweichend von Absatz 2 Satz 1 kann die Meldepflicht mit Zustimmung der beherbergten Person auch
+dadurch erfüllt werden, dass die in § 30 Absatz 2 genannten Daten elektronisch erhoben werden und die
+beherbergte Person deren Richtigkeit und Vollständigkeit am Tag der Ankunft bestätigt, indem die beherbergte
+Person
+1.  
+einen kartengebundenen Zahlungsvorgang mit einer starken Kundenauthentifizierung im Sinne
+des § 1 Absatz 24 des Zahlungsdiensteaufsichtsgesetzes auslöst, bei dem die zweckgebundene
+Zuordnungsnummer des eingesetzten Zahlungsmittels erhoben wird,
+ 
+
+2.  
+den elektronischen Identitätsnachweis nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des
+Aufenthaltsgesetzes erbringt oder
+ 
+3.  
+ihre eID-Karte nach § 13 des eID-Karte-Gesetzes oder ihren Aufenthaltstitel nach § 78 Absatz 5 des
+Aufenthaltsgesetzes zum Vor-Ort-Auslesen verwendet.
+ 
+Wer Beherbergungsstätten betreibt, kann für seine und andere mit seinen Beherbergungsstätten vertraglich
+zum Zweck des Erbringens von Beherbergungsdienstleistungen verbundenen Beherbergungsstätten zur
+Erprobung weiterer elektronischer Verfahren zur Erfüllung der Meldepflicht bei dem Bundesamt für Sicherheit
+in der Informationstechnik für die Dauer von höchstens fünf Jahren einen Antrag auf Zulassung eines von Satz 1
+abweichenden Verfahrens stellen, bei dem
+1.  
+die in § 30 Absatz 2 genannten Daten elektronisch mit Zustimmung der beherbergten Person erhoben
+werden,
+ 
+2.  
+die beherbergte Person die Richtigkeit und Vollständigkeit der Daten nach Nummer 1 am Tag der Ankunft
+in geeigneter Weise bestätigt und
+ 
+3.  
+ein vergleichbares Sicherheitsniveau zu den in Satz 1 Nummer 1 bis 3 genannten Verfahren besteht.
+ 
+Antragsberechtigt nach Satz 2 ist auch, wer elektronische Verfahren zur Erfüllung der Meldepflicht anbietet.
+(6) Die Absätze 2 und 3 gelten nicht für
+1.  
+Einrichtungen mit Heimunterbringung, die der Jugend- und Erwachsenenbildung, der Ausbildung oder der
+Fortbildung dienen, soweit Personen zu den genannten Zwecken untergebracht werden,
+ 
+2.  
+Betriebs- oder Vereinsheime, wenn dort nur Betriebs- oder Vereinsmitglieder und deren
+Familienangehörige beherbergt werden,
+ 
+3.  
+Jugendherbergen und Berghütten, zeitweilig belegte Einrichtungen der öffentlichen oder öffentlich
+anerkannten Träger der Jugendarbeit und
+ 
+4.  
+Einrichtungen der öffentlich-rechtlichen Religionsgesellschaften.

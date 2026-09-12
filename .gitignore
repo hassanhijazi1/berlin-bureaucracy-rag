@@ -1,0 +1,10 @@
+API.env
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+*.ipynb
+*.pdf
+review_output.json
