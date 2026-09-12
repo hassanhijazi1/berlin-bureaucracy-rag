@@ -582,7 +582,7 @@ def cached_vectors(chunks):
 # ================================================================
 
 PROMPT = """
-YOU MUST WRITE YOUR ANSWER IN Arabic.
+YOU MUST WRITE YOUR ANSWER IN THE QUESTIONS LANGUAGE.
 
 You are an expert administrative and regulatory intelligence assistant.
 
@@ -720,7 +720,7 @@ QUESTION:
 
 {question}
 
-Answer in Arabic.
+IN THE QUESTIONS LANGUAGE.
 """
 
 
